@@ -1,5 +1,5 @@
  {
-    "group":      [83744]
-,   "contacts":   ["ij@w3.org"]
+    "group":      "wg/payments"
+,   "contacts":   ["ianbjacobs"]
 ,   "repo-type":  "rec-track"
 }
