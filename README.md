@@ -1,5 +1,4 @@
 
-# Specification 'digital-credential-payment-method'
+# Payment Method Specification: 'digital-credential-payment-method'
 
-This is the repository for digital-credential-payment-method. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This is the repository for the payment method specification **digital-credential-payment-method**.
